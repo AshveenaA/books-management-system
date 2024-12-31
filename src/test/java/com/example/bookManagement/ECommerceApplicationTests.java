@@ -1,4 +1,4 @@
-package com.example.e_commerce;
+package com.example.bookManagement;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

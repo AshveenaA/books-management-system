@@ -1,6 +1,6 @@
-package com.example.e_commerce.Service;
+package com.example.bookManagement.Service;
 
-import com.example.e_commerce.Model.BooksModel;
+import com.example.bookManagement.Model.BooksModel;
 import java.util.List;
 
 public interface BookService {

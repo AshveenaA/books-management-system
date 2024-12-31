@@ -1,7 +1,6 @@
-package com.example.e_commerce.repository;
+package com.example.bookManagement.repository;
 
-import com.example.e_commerce.Model.BooksModel;
-import jakarta.persistence.criteria.CriteriaBuilder;
+import com.example.bookManagement.Model.BooksModel;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface BookRepository extends JpaRepository<BooksModel, Integer> {

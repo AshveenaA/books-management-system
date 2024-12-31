@@ -1,7 +1,7 @@
-package com.example.e_commerce.Controller;
+package com.example.bookManagement.Controller;
 
-import com.example.e_commerce.Model.BooksModel;
-import com.example.e_commerce.Service.BookService;
+import com.example.bookManagement.Model.BooksModel;
+import com.example.bookManagement.Service.BookService;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;

@@ -1,4 +1,4 @@
-package com.example.e_commerce.Model;
+package com.example.bookManagement.Model;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
